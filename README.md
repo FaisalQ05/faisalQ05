@@ -28,13 +28,6 @@ Passionate about building robust web and mobile applications with modern technol
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
-### 🌟 Featured Projects
-
-1. **[Project Name]** - Brief description (Tech used)  
-   [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](link) | [![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?logo=google-chrome&logoColor=white)](link)
-
-2. **[Project Name]** - Brief description (Tech used)  
-   [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](link) | [![Live Demo](https://img.shields.io/badge/-Live_Demo-FF5722?logo=google-chrome&logoColor=white)](link)
 
 ### 📈 GitHub Stats
 
