@@ -1,63 +1,78 @@
-# Hi there! 👋 I'm Faisal
-
-## 🚀 Full Stack Developer | MERN Stack | React Native
-
-Passionate about building robust web and mobile applications with modern technologies. I specialize in end-to-end development with expertise in both frontend and backend systems.
-
-### 🛠️ Technical Skills
-
-#### Frontend
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
-
-#### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-
-#### Mobile
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)
-
-#### DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-
-
-### 📈 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faisalQ05&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalQ05&layout=compact&langs_count=8&theme=dark" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=faisalQ05&theme=dark" />
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Faisal%20Qureshi&fontSize=50&fontAlignY=35&animation=fadeIn)
+
+  ### Full-Stack Alchemist • Turning Coffee into Code
+  
+  [![Visits Badge](https://badges.pufler.dev/visits/faisalQ05/faisalQ05?color=black)](https://badges.pufler.dev)
+  [![Years Badge](https://badges.pufler.dev/years/faisalQ05?color=black)](https://badges.pufler.dev)
+  ![Lines Badge](https://img.shields.io/badge/Code%20Lines-1M%2B-black)
+
 </div>
 
-### 📫 Let's Connect
+---
 
-- 💼 [Portfolio](https://faisalq-portfolio.netlify.app)
-- 📧 faisal199605@gmail.com
-- 💬 [LinkedIn](your-linkedin-link)
-- 🐦 [Twitter](your-twitter-link)
+## 🎨 Tech Stack Palette
 
-### 📚 Currently Learning
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+### Backend
+![Node](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🤝 Open for Collaboration
+### Mobile
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-I'm actively looking to collaborate on innovative projects, especially those involving:
-- SaaS applications
-- Mobile development with React Native
-- Performance optimization challenges
-- Open source contributions
+---
+
+## 📊 Code Canvas
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=faisalQ05&label=Profile%20views&color=0e75b6&style=flat" alt="faisalQ05" /> 
+  
+  ![3D Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisalQ05&theme=github_dark)
+  
+  | ![Metrics](https://github-readme-stats.vercel.app/api?username=faisalQ05&show_icons=true&theme=radical&hide_title=true) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisalQ05&layout=compact&theme=radical&hide_title=true) |
+  |---|---|
+  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faisalQ05&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🌟 Featured Creations
+
+<div align="center">
+  
+  | [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=faisalQ05&repo=repo1&theme=vision-friendly-dark)](https://github.com/faisalQ05/repo1) | [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=faisalQ05&repo=repo2&theme=vision-friendly-dark)](https://github.com/faisalQ05/repo2) |
+  |---|---|
+  
+</div>
+
+---
+
+## 📮 Contact Studio
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF4088?style=flat-square&logo=hugo&logoColor=white)](https://faisalq-portfolio.netlify.app)
+  [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:faisal199605@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn)
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+  
 </div>
