@@ -97,6 +97,16 @@ Hi! I'm **Faisal**, a passionate Full-Stack Engineer with a strong command over 
 
 ---
 
+## ☕ Support Me
+
+<div align="center">
+  <a href="https://www.ko-fi.com/faisal21">
+    <img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150" alt="Buy Me a Coffee at ko-fi.com">
+  </a>
+</div>
+
+---
+
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=100&section=footer)
