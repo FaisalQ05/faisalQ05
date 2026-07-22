@@ -1,12 +1,11 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Faisal%20Gul&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4b6cb7,100:182848&height=200&section=header&text=Faisal&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 ### 🔧 Backend-Focused Full Stack Engineer
 **Node.js · NestJS · Event-Driven Architecture · Domain-Driven Design**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=FaisalQ05&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/FaisalQ05)
-![Status](https://img.shields.io/badge/Status-Always%20Building-blue?style=flat-square&logo=github)
 
 </div>
 
@@ -16,18 +15,20 @@
 
 I'm **Faisal**, a backend-focused Full Stack Engineer with **4 years of experience** designing and building scalable, production-grade systems across **government, logistics, and consumer** domains.
 
-My core strength is **backend architecture** — turning ambiguous requirements into well-structured, maintainable systems using **Domain-Driven Design, Clean Architecture, and event-driven patterns**. I care about how a system behaves under real load, not just whether it works on my machine: reliable message delivery, sane data consistency, observability, and infrastructure that doesn't fall over.
-
-I work full stack when the project needs it — React/React Native on the frontend — but the backend is where I spend most of my time and where I do my best work.
+My core strength is **backend architecture** — turning ambiguous requirements into well-structured, maintainable systems. I care about how a system behaves under real load, not just whether it works on my machine: reliable message delivery, sane data consistency, observability, and infrastructure that doesn't fall over. I work full stack when a project needs it — React/React Native on the frontend — but the backend is where I spend most of my time and do my best work.
 
 🔧 **What I focus on:**
 - Designing backend systems with **DDD, Clean Architecture, CQRS & Microservices**
 - Building reliable **event-driven workflows** with Kafka, RabbitMQ, BullMQ & the Outbox Pattern
 - Writing secure, well-tested APIs (**REST & GraphQL**) with strong auth (JWT, OAuth2, Keycloak)
+- Practicing **TDD** — Jest & Supertest for unit, integration, and API-level test coverage
 - Owning infrastructure end-to-end — Docker, Kubernetes, CI/CD, NGINX, Linux
 - Bringing AI into real products — RAG pipelines, tool-calling agents, LLM integrations
 
 📍 Islamabad, Pakistan &nbsp;|&nbsp; 🌐 [codewithfaisal.com](https://codewithfaisal.com)
+
+🔭 **Currently building:** AI integrations & agentic workflows
+🌱 **Currently exploring:** LangChain · LangGraph · AI Agents
 
 ---
 
@@ -41,6 +42,11 @@ I work full stack when the project needs it — React/React Native on the fronte
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-6D83F2?style=for-the-badge&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=for-the-badge)
+![OIDC](https://img.shields.io/badge/OpenID%20Connect-3C3C3D?style=for-the-badge)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4D4D4D?style=for-the-badge)
 
 ### 📐 Architecture & Design
 ![DDD](https://img.shields.io/badge/Domain--Driven%20Design-2C5282?style=for-the-badge)
@@ -67,13 +73,6 @@ I work full stack when the project needs it — React/React Native on the fronte
 ![TypeORM](https://img.shields.io/badge/TypeORM-FF6B6B?style=for-the-badge&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge)
 
-### 🔐 Auth & Security
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![OAuth2](https://img.shields.io/badge/OAuth_2.0-3C3C3D?style=for-the-badge)
-![OIDC](https://img.shields.io/badge/OpenID%20Connect-3C3C3D?style=for-the-badge)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-4D4D4D?style=for-the-badge)
-
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -81,8 +80,6 @@ I work full stack when the project needs it — React/React Native on the fronte
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 📊 Monitoring & Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Supertest](https://img.shields.io/badge/Supertest-C21325?style=for-the-badge)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
@@ -103,6 +100,12 @@ I work full stack when the project needs it — React/React Native on the fronte
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+---
+
+## 📌 Pinned Repos
+
+Check out the pinned repositories below for a closer look at how I build — architecture, patterns, and code quality included.
 
 ---
 
